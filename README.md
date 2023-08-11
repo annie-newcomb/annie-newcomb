@@ -1,4 +1,4 @@
-Hi! I am Annie Newcomb, a data analyst! 
+Hi! I am Annie Newcomb!
 
 I use SQL, Python, Excel, and Tableau to elucidate new ideas on old topics. Come along and learn with me! 
 
